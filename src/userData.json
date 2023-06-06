@@ -2,15 +2,11 @@
     "users": [
       {
         "email": "john12@gmail.com",
-        "password": "password123"
+        "password": "password@123"
       },
       {
         "email": "jane123@gmail.com",
-        "password": "password456"
-      },
-      {
-        "email": "araj60988@gmail.com",
-        "password": "Raj@6098"
+        "password": "password@456"
       }
     ]
   }
